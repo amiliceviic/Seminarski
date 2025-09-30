@@ -36,7 +36,6 @@
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
     - [Usage](#-usage)
-    - [Testing](#-testing)
 
 ---
 
@@ -98,21 +97,6 @@ docker run -it {image_name}
 
 ```sh
 npm start
-```
-
-### 🧪 Testing
-
-Seminarski uses the {__test_framework__} test framework. Run the test suite with:
-
-**Using [docker](https://www.docker.com/):**
-
-```sh
-echo 'INSERT-TEST-COMMAND-HERE'
-```
-**Using [npm](https://www.npmjs.com/):**
-
-```sh
-npm test
 ```
 
 ---
