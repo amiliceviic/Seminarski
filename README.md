@@ -58,7 +58,7 @@ This project requires the following dependencies:
 
 ### ⚙️ Installation
 
-Build Seminarski from the source and install dependencies:
+Build Term from the source and install dependencies:
 
 1. **Clone the repository:**
 
