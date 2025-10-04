@@ -1,6 +1,5 @@
 <div id="top">
 
-
 <div align="center">
 
 # TERM PAPER
