@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 # TERM PAPER
 
 <em>Empowering Seamless Learning and Innovation Everywhere</em>
