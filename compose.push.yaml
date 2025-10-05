@@ -1,0 +1,14 @@
+name: recipe-app-build
+
+services:
+  api:
+    image: docker.io/${DOCKER_USER}/contacts-api:${API_TAG}
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+
+  web:
+    image: docker.io/${DOCKER_USER}/contacts-web:${WEB_TAG}
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
